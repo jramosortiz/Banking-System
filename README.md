@@ -4,7 +4,8 @@ Install Java Extension Pack if you haven’t already.
 
 Open your project.                                                                                               
 
-Right-click the project → Configure Java Runtime → Add lib/sqlite-jdbc-3.49.1.0.jar to Referenced Libraries.      |
+Right-click the project → Configure Java Runtime → Add lib/sqlite-jdbc-3.49.1.0.jar (Or newer on this folder) to 
+Referenced Libraries.      |
                                                                                                                   |
 Rebuild the project (Ctrl+Shift+B) and run.                                                                       |
 __________________________________________________________________________________________________________________|
