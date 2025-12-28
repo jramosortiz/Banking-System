@@ -56,7 +56,14 @@ javac -d bin -cp "lib/sqlite-jdbc-3.57.2.1.jar" src\*.java
 
 
 
+Once you have added you library:
 
+1. Open and run Server.java (If no errors! go to step 2)
+2. Open  and run Main.java
+3. Have fun! and please give feedback
+
+   This is one of my favorite project becuase I got to learn a lot working with sqlite. I also learn how to write clean code and make sure to leave notes.  I hope to keep getting better and landing my first internship.
+   
 
 
 
